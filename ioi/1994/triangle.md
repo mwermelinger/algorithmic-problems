@@ -92,7 +92,8 @@ assert max_sum(0, 0) == OUTPUT
 ```
 
 ## Bottom-up iterative
-The third solution fills the auxiliary table from the bottom up.
+The third solution fills the auxiliary table from the bottom up
+(dynamic programming).
 ```python
 max_sums = [[None] * (row+1) for row in range(rows)]
 
