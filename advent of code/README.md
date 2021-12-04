@@ -9,7 +9,3 @@ Different users may get different input data to prevent copying answers.
 
 The second part is revealed only after submitting the first part's answer.
 I don't change my first part's code in light of the second part.
-
-My solutions in this repository won't make sense without reading first
-the [2021 problems](https://adventofcode.com/2021).
-The text files are the input data I was assigned.
