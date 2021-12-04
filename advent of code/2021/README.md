@@ -1,13 +1,3 @@
 # Advent of Code 2021
 
-The solutions in this folder won't make sense without reading first
-the [2021 problems](https://adventofcode.com/2021).
-My routine is:
-
-1. Copy the `day00.py` template to `dayDD.py` where `DD` is the current day.
-1. On the AoC problem page, click on the link to my input data and save it to file `dayDD.txt`.
-1. Paste the example input given on the AoC problem page into string `TEST`.
-1. For the example input, write the expected output after the `assert` for part 1.
-1. Write, run and debug function `part1` until the assertion is silent (no exception).
-1. Copy the printed output to the AoC website to unlock part 2.
-1. Repeat steps 4-6 for part 2.
+The problem descriptions are at https://adventofcode.com/2021.
