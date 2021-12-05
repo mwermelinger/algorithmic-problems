@@ -1,7 +1,8 @@
 # Algorithmic problems
 
-This repository contains my solutions to some programming problems
-found on the web.
+This repository contains solutions in Python to some programming problems
+from AoC, IOI, COCI and LeetCode. (See the README in each folder.)
+Solutions are my own or my adaptations to Python of official solutions.
 
 Comments and suggestions for improvements are most welcome.
 Please use the Discussions tab.
